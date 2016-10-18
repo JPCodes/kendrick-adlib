@@ -1,4 +1,14 @@
+.content {
+  padding: 0% 5%;
+  text-align: justify;
+}
 
 #rap p {
-  line-height: 3em;
+  line-height: 2.3em;
+  font-size: 1.1em;
+}
+#kendrick {
+  display: block;
+  float: left;
+  width: 30%;
 }
